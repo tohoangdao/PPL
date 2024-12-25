@@ -1,0 +1,6 @@
+
+        main:function void() {
+            num:integer;
+            for (num = 1, num < 15, 1) continue;    
+            printInteger(num);
+        }

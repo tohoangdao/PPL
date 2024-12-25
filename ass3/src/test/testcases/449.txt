@@ -1,0 +1,6 @@
+y, z, x: float = 2.75, 1.98, 3.17;
+        main: function void()
+        {
+            r = y + z + x;
+            printFloat(r);
+        }

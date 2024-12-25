@@ -1,0 +1,8 @@
+
+        Function: main
+        Body:
+            Var: i = 1 ;
+            n[i+1] = 10; 
+            printLn (n[i+i])
+        EndBody.
+        

@@ -1,0 +1,12 @@
+
+        Function: main
+            Body:
+                For(i=0, i < 5, 2)
+                Do
+                    If !0
+                    Then Break;
+                    Else Continue;
+                    EndIf.
+                EndFor.
+            EndBody.
+        

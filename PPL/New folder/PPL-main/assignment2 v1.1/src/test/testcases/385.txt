@@ -1,0 +1,9 @@
+
+            Function: main
+                Body:
+                    Do 
+                        print(a,b,"wat is this", True || !False, 1+1==2, ("another expression"))
+                    While a>3
+                    EndDo.
+                EndBody.      
+            

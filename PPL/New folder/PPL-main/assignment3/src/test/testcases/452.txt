@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[],([VarDecl(Id("x"),[], None),VarDecl(Id("y"),[],IntLiteral(2))],[While(UnaryOp("!",Id("x")),([],[Assign(Id("x"),BooleanLiteral(True)),Assign(Id("x"),Id("y"))]))]))])

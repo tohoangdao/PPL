@@ -1,0 +1,1 @@
+x: integer = a[1 + 2, a == b, "hello", !a_SADsd, 3 * 3.0];

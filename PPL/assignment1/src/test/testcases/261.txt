@@ -1,0 +1,10 @@
+
+        class Test {
+    func @main():void {
+        var abc:string="fasfafj";
+        var e1: string="afabw";
+        var e2:string;
+        e2:=abc^e1;
+    }
+} 
+        

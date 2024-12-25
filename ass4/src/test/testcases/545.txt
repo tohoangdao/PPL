@@ -1,0 +1,8 @@
+
+        a: integer = 3;
+        b: integer = 4;
+        c: boolean = a * a + b * b == 25;
+        main: function void()
+        {
+            printBoolean(c);
+        }

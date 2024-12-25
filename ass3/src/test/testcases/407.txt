@@ -1,0 +1,13 @@
+
+        bar: function auto (p: auto, q: integer)
+        {
+            p = p + q;
+            return p;
+        }
+        baz: function void()
+        {
+            y: integer = bar(2.5, 3);
+        }
+        main: function void() {
+        
+        }

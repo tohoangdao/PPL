@@ -1,0 +1,6 @@
+
+        Function: main
+             Body:
+                 a = "What are you doing";
+                 b = "Bye bye";
+             EndBody.

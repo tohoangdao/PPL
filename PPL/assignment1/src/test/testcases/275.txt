@@ -1,0 +1,13 @@
+
+        class Vehicle
+{
+    func getWeight():float {
+    }
+}
+
+
+class Vehicle<-Car
+{
+}
+
+        

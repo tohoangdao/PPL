@@ -1,0 +1,10 @@
+
+        bar: function float (out z: auto, y: auto)
+        {
+            z = 5;
+            return z + y;
+        }
+        main: function void() {
+            b: auto = bar(2.0, 2);
+            c: float = b + z;
+        }

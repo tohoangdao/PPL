@@ -1,0 +1,10 @@
+ Function: main
+        Body: 
+            Do 
+                If a > 2
+                    Then a=0;
+                EndIf.
+            While(a==b)
+            EndDo.
+            EndDo.
+        EndBody. 

@@ -1,0 +1,17 @@
+
+        num1: integer = 65;
+        inc: function void(out n: integer, delta: integer, dec: boolean)
+        {
+            if (dec == true)
+            {
+                n = n - delta;
+            }
+            else
+            {
+                n = n + delta;
+            }
+        }
+        main: function void() {
+            inc(num1, 3, false);
+            printFloat(num1);
+        }

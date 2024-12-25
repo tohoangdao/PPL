@@ -1,0 +1,3 @@
+
+        class gah4123 <- abc{ }
+        

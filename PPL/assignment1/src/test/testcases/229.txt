@@ -1,0 +1,7 @@
+
+        class Test {
+    const a, b: float = 5.14, 2.3-e415;
+    var c:float= 31.441+E41;
+}
+
+        

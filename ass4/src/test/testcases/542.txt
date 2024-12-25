@@ -1,0 +1,10 @@
+
+        a: integer = foo(1, 2) + 1;
+        foo: function integer(a: integer, b: integer)
+        {
+            return a + b;
+        }
+        main: function void()
+        {
+            printInteger(a);
+        }

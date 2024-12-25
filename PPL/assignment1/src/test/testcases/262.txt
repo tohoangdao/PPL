@@ -1,0 +1,8 @@
+
+        class Test {
+    func @main():void {
+        var abc:int;
+        abc:= self.a() + b[3] + x.c[0];
+    }
+}         
+        

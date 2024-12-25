@@ -1,0 +1,14 @@
+
+        foo: function void(out num1: auto, out num2: auto)
+        {
+            num1 = num1 + 1;
+            num2 = num2 + 1;
+            printFloat(num1 + num2);
+        }
+        main: function void()
+        {
+            a, b: float = 1.0, 2.0;
+            foo(a, b);
+            printFloat(a);
+            printFloat(b);
+        }

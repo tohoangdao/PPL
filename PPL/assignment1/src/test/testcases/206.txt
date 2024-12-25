@@ -1,0 +1,7 @@
+
+        class Shape <- Retangle {
+    func getArea():int {
+        return self.length * self.width;
+    }
+}   
+        

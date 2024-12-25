@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[],([],[CallStmt(Id("So Tired :(((,thanks teacher,i have already done my best"),[])]))])

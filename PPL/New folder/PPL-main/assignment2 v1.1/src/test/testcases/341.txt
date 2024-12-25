@@ -1,0 +1,11 @@
+
+        Function: main
+            Body:
+                While (x<2) && (a==0)
+                Do
+                    If a > 2
+                    Then Break;
+                    EndIf.
+                EndWhile.
+            EndBody.
+        

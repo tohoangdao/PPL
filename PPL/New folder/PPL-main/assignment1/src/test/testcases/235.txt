@@ -1,0 +1,11 @@
+
+        Function: main
+            Body:
+                If (a > 0) && (b != 0)
+                Then
+                    c = -b;
+                Else
+                    c = c \ a;
+                EndIf.
+            EndBody.
+        

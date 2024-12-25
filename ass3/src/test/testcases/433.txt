@@ -1,0 +1,12 @@
+
+        bar: function integer(b: auto)
+        {
+            if (b < 20)
+            {
+                return 1;
+            }
+            return 2.7;
+        }
+        main: function void () {
+            
+        }

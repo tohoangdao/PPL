@@ -1,0 +1,9 @@
+
+        Function: flag
+             Body:
+                 Return True;
+             EndBody.
+        Function: main
+             Body:
+                 print(flag());
+             EndBody.

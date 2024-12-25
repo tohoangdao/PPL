@@ -1,0 +1,17 @@
+
+            Function: sum0frange
+                Parameter: n
+                Body:
+                    result = 0;
+                    For(i=0,i<n,i+1)
+                    Do
+                        result = result + i;
+                    EndFor.
+                    Return result;
+                EndBody.
+            Function: main
+                Body:
+                    print("Sum from 0 to 10: ");
+                    print(sum0range(10));
+                EndBody.
+            

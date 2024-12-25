@@ -1,0 +1,6 @@
+
+        Function: main
+            Body:
+                a[0o567+sum(a,b)] = {1, 3};
+            EndBody.
+        

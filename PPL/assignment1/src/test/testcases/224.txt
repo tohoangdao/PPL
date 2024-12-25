@@ -1,0 +1,12 @@
+
+         class Test {
+    func @main():void {
+        var valuee:int = 100;
+        for i := 0; i < 10; i := i + 1 {
+            valuee:= valuee+i;
+        }
+        var multi:int = 100;
+        multi:=valuee*multi;
+    }
+}
+        

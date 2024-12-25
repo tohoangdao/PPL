@@ -1,0 +1,11 @@
+
+        Function: main
+            Body:
+                If a == 0
+                Then
+                    Return 0;
+                Else Then
+                    Return a;
+                EndIf.
+            EndBody.
+        

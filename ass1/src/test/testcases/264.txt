@@ -1,0 +1,5 @@
+/* main function */
+            factor : integer = 10.0;
+            main: function auto () {
+                a = "something";
+            }

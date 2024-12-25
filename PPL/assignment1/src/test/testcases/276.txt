@@ -1,0 +1,17 @@
+
+        class Vehicle
+{
+    func vehicle():string {
+        return "vehicle";
+    }
+}
+
+
+class Vehicle<-Car
+{
+    func car():string {
+        return "car";
+    }
+}
+        
+        

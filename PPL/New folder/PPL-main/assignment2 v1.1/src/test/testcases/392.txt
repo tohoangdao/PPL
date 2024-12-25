@@ -1,0 +1,22 @@
+
+            Function: loop
+                Body:
+                Var: abc[0o567][0xFCE];
+                    For(i=0, i < 5, 2)
+                    Do Break;
+                    EndFor.
+                EndBody.
+            Function: sum
+                Body:
+                    Return a+b;
+                EndBody.
+            Function: sub
+                Body:
+                    Return a-b;
+                EndBody.
+            Function: main
+            Parameter: x,y,z,a[1+111]
+                Body:
+                    Return loop();
+                EndBody.
+            

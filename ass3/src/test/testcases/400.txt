@@ -1,0 +1,15 @@
+
+        bar1: function void (c: integer) inherit bar
+        {
+            super(d, c);
+        }
+        bar: function void (a: integer, inherit d: auto) {
+        
+        }
+        bar2: function void (x: integer) inherit bar1
+        {
+            super(d);
+        }
+        main: function void() {
+        
+        }

@@ -1,0 +1,6 @@
+ Function: main
+            Body:
+                For (i == 0, i < 5, i=i+1) 
+                Do print(i); 
+                EndFor.
+            EndBody. 

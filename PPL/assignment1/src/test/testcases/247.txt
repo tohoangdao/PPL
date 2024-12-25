@@ -1,0 +1,16 @@
+
+        class Test {
+    func @main():void {
+    }
+}
+
+class Test2 {
+    func @main2():void {
+    }
+}
+
+class Test <- abc123{
+    func @main123():void {
+    }
+}
+        

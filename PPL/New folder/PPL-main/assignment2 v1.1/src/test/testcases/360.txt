@@ -1,0 +1,10 @@
+
+            Var: a = 10.;
+            Var: b[0];
+            Var: c[1][2], e;
+            Function: main
+            Body:
+                Var: a = 10.;
+                Var: b[0];
+                Var: c[1][2], e;
+            EndBody.

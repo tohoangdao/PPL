@@ -1,0 +1,12 @@
+
+        class A{
+            final int a;
+        }
+        class BKoolClass {
+            void main(){
+               A test= new A();
+               test.a:=2;
+               io.writeInt(test.a);
+            }
+        }
+        

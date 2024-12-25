@@ -1,0 +1,10 @@
+
+        Function: sum
+        Parameter: a,b
+            Body:
+                Return a + b;
+            EndBody.
+        Function: main
+             Body:
+                 sum("Hello", "World!");
+             EndBody.

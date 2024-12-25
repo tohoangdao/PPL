@@ -1,0 +1,9 @@
+
+        func2: function auto(){
+            return "abc";
+        }
+        main: function void(){
+            b: auto = func2() + 3.3;
+        }
+        
+        

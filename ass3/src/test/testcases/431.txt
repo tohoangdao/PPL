@@ -1,0 +1,12 @@
+
+        bar: function void (b: auto) inherit baz {
+            preventDefault();
+            c = c + 1;
+        }
+        main: function void () {
+            bar(2018);
+            baz(20, 1998);
+        }
+        baz: function void (inherit b: integer, inherit c: integer){                 
+            bar(3);
+        } 

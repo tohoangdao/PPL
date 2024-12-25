@@ -1,0 +1,6 @@
+
+        bar: function auto(b: auto, c: string) inherit baz {
+            super(1, b, baz()); // 1
+        }
+        baz: function auto (y: auto, z: boolean, x: float) {}
+        main: function void() {}

@@ -1,0 +1,6 @@
+
+        num:integer;
+        main:function void() {
+            num:integer = 400;
+            printInteger(num);
+        }

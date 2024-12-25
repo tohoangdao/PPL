@@ -1,0 +1,8 @@
+
+        class Test {
+    func num():int {
+        return num;
+    }
+}
+
+        

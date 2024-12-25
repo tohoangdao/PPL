@@ -1,0 +1,13 @@
+
+        main: function void() {
+            n: float = readInteger();
+            if (bar(n) && bar(n + 1))
+            {
+                printInteger(n);
+            }
+            else
+            {
+                printInteger(1 + n);
+            }
+        }
+        bar: function boolean(n: float) {}

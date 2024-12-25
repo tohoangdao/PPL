@@ -1,0 +1,1 @@
+Type Mismatch In Statement: CallStmt(Id("flag"),[VarDecl(Id("x"),[], None),VarDecl(Id("y"),[], None),VarDecl(Id("z"),[], None)])

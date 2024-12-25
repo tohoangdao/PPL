@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[VarDecl(Id("p"),[],IntLiteral(20)),VarDecl(Id("p"),[],FloatLiteral(2.2))],([],[]))])

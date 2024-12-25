@@ -1,0 +1,9 @@
+
+        class Test {
+    func @main():void {
+        io.@writeInt(30);
+    }
+}
+
+        
+        

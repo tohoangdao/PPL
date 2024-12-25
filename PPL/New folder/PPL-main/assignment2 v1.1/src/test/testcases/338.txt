@@ -1,0 +1,12 @@
+
+        Function: main
+            Body:
+                Do
+                    If a > 2
+                    Then Return a;
+                    Else Continue;
+                    EndIf.
+                While(a == b)
+                EndDo.
+            EndBody.
+        

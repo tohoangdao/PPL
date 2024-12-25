@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("alo"),[],([],[Return(BooleanLiteral(True))])),FuncDecl(Id("main"),[],([],[While(CallExpr(Id("alo"),[]),([],[Assign(Id("i"),IntLiteral(2))]))]))])

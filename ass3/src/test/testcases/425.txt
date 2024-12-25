@@ -1,0 +1,9 @@
+
+        z: boolean = true;
+        bar: function auto () {
+            return z;
+        }
+        main: function void() {
+            delta_value: integer = bar();
+            printInteger(delta_value);
+        }

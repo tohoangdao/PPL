@@ -1,0 +1,6 @@
+ Function: main
+            Body: 
+                Do 
+                While(a==b)
+                EndDo.
+            EndBody. 

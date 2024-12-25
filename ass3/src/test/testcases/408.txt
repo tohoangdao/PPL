@@ -1,0 +1,14 @@
+
+        bar: function auto (u: auto, v: integer)
+        {
+            u = u + v;
+            return u;
+        }
+        baz: function void() inherit bar
+        {
+            u: integer = 1;
+            super(2, 3);
+        }
+        main: function void() {
+        
+        }

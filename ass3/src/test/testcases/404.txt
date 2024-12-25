@@ -1,0 +1,12 @@
+
+        bar: function integer (inherit m: integer, n: integer)
+        {
+            
+        }
+        bar1: function integer(o: string) inherit bar
+        {
+            super(m, n);
+        }
+        main: function void() {
+        
+        }

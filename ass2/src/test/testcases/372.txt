@@ -1,0 +1,6 @@
+
+            /* main function */
+            mainn: function float (out n : integer, out i : float) {
+                a = true && false;
+            }
+        

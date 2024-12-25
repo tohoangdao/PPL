@@ -1,0 +1,6 @@
+
+        Function: main
+            Body:
+                a[a[numb(2)][b || True]][b[b[1 + 0o567]]] = a[b[2][b[12E-9] * 3]] + 4;
+            EndBody.
+        

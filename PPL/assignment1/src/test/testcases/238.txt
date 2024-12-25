@@ -1,0 +1,18 @@
+
+        class Test {
+    var @a, @b : int = 0, 0;
+}
+
+class Test <- Test1{
+    var @c, @d : int = 0, 0;
+}
+
+class Test <- Test2{
+    var e, f: int = 0, 0;
+}
+
+class Test <- Test3{
+    var g, h: int = 0, 0;
+}
+        
+        

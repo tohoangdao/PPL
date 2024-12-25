@@ -1,0 +1,12 @@
+
+        class Test {
+    func @abc():bool {
+        if a==b {return true;} else {return false;}
+    } 
+
+    func @abcd(): int {
+        a := 10;
+        return 5;
+    } 
+}
+        

@@ -1,0 +1,14 @@
+
+        class Example2 {
+    func @getNumOfShape():float {
+        var r,s: float;
+        var a: [5]int
+        #list of statements
+        r:=2.0;
+        s:=r*r*self.pi;
+        a[0]:= s;
+        return s;
+    }
+}
+        
+        

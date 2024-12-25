@@ -1,0 +1,5 @@
+
+        class Test {
+    func abc(b:[5] int):int {}
+}
+        

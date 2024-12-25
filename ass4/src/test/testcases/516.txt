@@ -1,0 +1,7 @@
+
+        self:function float(num:float) {
+            return num;
+        }
+        main:function void() {
+            printFloat(self(10));
+        }

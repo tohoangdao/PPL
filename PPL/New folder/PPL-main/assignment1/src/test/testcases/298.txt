@@ -1,0 +1,4 @@
+ Function: main
+            Body: 
+                print(a,b,0,"abc");
+            EndBody. 

@@ -1,0 +1,1 @@
+Type Mismatch In Statement: Dowhile(([],[Assign(Id("i"),IntLiteral(2))]),CallExpr(Id("alo"),[]))

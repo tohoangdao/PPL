@@ -1,0 +1,8 @@
+
+        class Test {
+    func @abc():void {
+        if  !a && b {j := j - 1;} else {j := j + 1;}
+    } 
+}
+
+        

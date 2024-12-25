@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(sum)[VarDecl(Id(a)),VarDecl(Id(b))],([][Return(BinaryOp(+,Id(a),Id(b)))])),FuncDecl(Id(main)[],([][CallStmt(Id(sum),[StringLiteral(Hello),StringLiteral(World!)])]))])

@@ -1,0 +1,13 @@
+
+        class Test {
+    func @main():void {
+        var abc:string="fasfafj";
+        abc:="fefjfa";
+        abc:="erfeafj";
+        var e1: string;
+        const e2:string;
+        e1:=abc;
+        e2:=abc;
+    }
+}
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("flag"),[VarDecl(Id("x"),[],IntLiteral(3)),VarDecl(Id("y"),[],IntLiteral(3))],([],[])),FuncDecl(Id("main"),[],([VarDecl(Id("abc"),[], None),VarDecl(Id("xyz"),[],FloatLiteral(3.5))],[CallStmt(Id("flag"),[Id("abc"),Id("xyz")])]))])

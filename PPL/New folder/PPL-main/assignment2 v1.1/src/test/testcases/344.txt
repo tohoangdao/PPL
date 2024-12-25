@@ -1,0 +1,6 @@
+
+        Function: main
+            Body:
+                Var: a[a[numb(2)][b || True]][b[b[1 + 0o567]]] = 4;
+            EndBody.
+        

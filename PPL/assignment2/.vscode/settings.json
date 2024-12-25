@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/main/CSlang/parser",
+        "./src/main/CSlang/utils"
+    ]
+}

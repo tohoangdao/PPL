@@ -1,0 +1,7 @@
+
+        class Test {
+    const a, b: bool = false, false;
+    var c:bool= true;
+}
+
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("alo"),[],([],[Return(None)])),FuncDecl(Id("foo"),[],([],[Return(CallExpr(Id("alo"),[]))])),FuncDecl(Id("main"),[],([],[]))])

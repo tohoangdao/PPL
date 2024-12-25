@@ -1,0 +1,1 @@
+Program([VarDecl(Id(age)),FuncDecl(Id(main)[],([][CallStmt(Id(print),[StringLiteral(Enter your age:)]),CallStmt(Id(read),[Id(age)]),If(BinaryOp(<,Id(age),IntLiteral(18)),[],[CallStmt(Id(deniedaccess),[BooleanLiteral(false)])])Else([],[CallStmt(Id(access),[BooleanLiteral(true)])])]))])

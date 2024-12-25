@@ -1,0 +1,7 @@
+
+        class Test {
+    func @main():void {
+        a[(3+x.foo(2))/5*3-25] := a[b[2]] +3*a[4]/3;
+    }
+}        
+        

@@ -1,0 +1,13 @@
+a, b: boolean = true, bar(1, 2);
+        bar: function auto (x: auto, y: integer)
+        {
+            return x == y;
+        }
+        baz: function void(z: auto)
+        {
+            
+        }
+        main: function void() {
+            baz(2022);
+            baz(3.75);
+        }

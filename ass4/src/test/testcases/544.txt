@@ -1,0 +1,22 @@
+
+        foo: function void (inherit out a: integer)
+        {
+            if (a % 2 == 1)
+            {
+                a = 3 * a + 1;
+            }
+            else
+            {
+                a = a / 2;
+            }
+        }
+        bar: function integer(out b: integer) inherit foo
+        {
+            super(b);
+            return a + b;
+        }
+        main: function void()
+        {
+            b: integer = 27;
+            printInteger(bar(b));
+        }

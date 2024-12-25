@@ -1,0 +1,12 @@
+
+        class Student {
+    var age: int = 10;
+    const name: string = "Harry";
+    var height,weight: int;
+
+    func setAge():void {
+        self.age:=15;
+    }
+}
+       
+        

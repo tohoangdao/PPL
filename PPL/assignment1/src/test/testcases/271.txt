@@ -1,0 +1,16 @@
+
+        class Student
+{
+    func getName():string {
+        return name;
+    }
+    func getAge():int {
+        return age;
+    }
+
+    func getHeight():float {
+        return @height;
+    }
+}
+
+        

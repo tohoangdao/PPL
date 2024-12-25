@@ -1,0 +1,7 @@
+a : integer = foo(1, 2);
+            foo : function integer (a : auto, b: auto) {
+                a = 1;
+                b = 2;
+                return a + b;
+            }
+            main: function void() {}

@@ -1,0 +1,22 @@
+
+        a: arranum2 [10] of integer = {3, 9, 1, 0, 6, 4, 5, 8, 7, 2};
+        manum1: function integer(a: integer, b: integer)
+        {
+            if (a > b)
+            {
+                return a;
+            }
+            return b;
+        }
+        manum1Ele: function integer(arr: arranum2 [10] of integer, n: integer)
+        {
+            if (n == 1)
+            {
+                return arr[0];
+            }
+            k: integer = manum1(arr[n - 1], manum1Ele(arr, n - 1));
+            return k;
+        }
+        main: function void() {
+            printInteger(manum1Ele(a, 10));
+        }

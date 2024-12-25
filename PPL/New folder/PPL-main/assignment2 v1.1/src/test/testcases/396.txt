@@ -1,0 +1,10 @@
+
+        Function: main
+            Body:
+                If (g != "null") 
+                Then  Var: abc[0o567][0xFCE];
+                ElseIf (a == "notnull")
+                Then Var: b[2][3] = {{2,3,4},{4,5,6}};
+                Else Var: m, n[10];
+                EndIf. 
+            EndBody.

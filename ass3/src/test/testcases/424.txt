@@ -1,0 +1,8 @@
+
+        bar: function auto () {
+            return 2022;
+        }
+        main: function void() {
+            delta_value: integer = bar();
+            printInteger(delta_value);
+        }

@@ -1,0 +1,9 @@
+
+        class Person {
+        var age: int;
+        const name: string;
+
+        func setName():void {}
+}
+        
+        

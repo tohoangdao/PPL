@@ -1,0 +1,1 @@
+x, y: array [1_02, 23] of string = ("he slo ae" :: true) :: (1_23.0e-10 :: a), (a_sdq :: sda) :: asw; 

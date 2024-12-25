@@ -1,0 +1,10 @@
+
+         class Test {
+    func compare(x:int, y:int):bool {
+        var com:bool;
+        com:= x==y;
+        return com;
+    }
+}
+
+        

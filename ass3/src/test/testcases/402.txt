@@ -1,0 +1,6 @@
+p, q, r: string = "20", "30", "40";
+        main: function void()
+        {
+            s = q :: (p :: r);
+            printString(s);
+        }

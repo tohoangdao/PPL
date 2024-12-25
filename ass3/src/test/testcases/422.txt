@@ -1,0 +1,7 @@
+
+        factorial: function integer (m: integer) {
+            factorial(2022);
+        }
+        main: function void() {
+            delta_value: integer = factorial(4);
+        }

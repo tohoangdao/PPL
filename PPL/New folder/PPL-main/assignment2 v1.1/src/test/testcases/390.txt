@@ -1,0 +1,12 @@
+
+            Function: main
+                Body:
+                    Do a+3;
+                        If a<4
+                        Then Return a = foo(3, a[5], !4);
+                        Else a[2][3] = {{10,15,20},{1,2,3}};
+                        EndIf.
+                    While (True)
+                    EndDo.
+                EndBody.
+            

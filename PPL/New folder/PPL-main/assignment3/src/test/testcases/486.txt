@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[],([],[])),FuncDecl(Id("float_to_int"),[],([],[]))])

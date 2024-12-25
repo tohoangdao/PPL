@@ -1,0 +1,7 @@
+
+        Function: main
+            Body:
+                ** Assign x equal to 10 **
+                x = 10;
+            EndBody.
+        

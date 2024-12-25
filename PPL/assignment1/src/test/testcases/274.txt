@@ -1,0 +1,48 @@
+
+        class People
+{
+    func getName():string {
+        return name;
+    }
+    func getAge():int {
+        return age;
+    }
+
+    func getHeight():float {
+        return @height;
+    }
+}
+
+
+class People <- Student
+{
+ 
+    func getName():string {
+        acxx:= new People();
+        return name;
+    }
+    func getAge():int {
+        return age;
+    }
+
+    func getHeight():float {
+        return @height;
+    }
+}
+
+class Student <- Parent
+{
+
+    func getName():string {
+        return name;
+    }
+    func getAge():int {
+        return age;
+    }
+
+    func getHeight():float {
+        return @height;
+    }
+}
+        
+        

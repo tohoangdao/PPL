@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][CallStmt(Id(print),[CallExpr(Id(divide),[CallExpr(Id(sum),[CallExpr(Id(add),[IntLiteral(22),IntLiteral(11)])]),CallExpr(Id(sub),[IntLiteral(10),IntLiteral(5)])])])]))])

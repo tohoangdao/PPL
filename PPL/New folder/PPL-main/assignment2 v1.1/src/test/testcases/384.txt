@@ -1,0 +1,6 @@
+
+            Function: main
+                Body:
+                    print(a,b,"wat is this", True || !False, 1+1==2, ("another expression"))
+                EndBody.      
+            

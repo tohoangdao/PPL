@@ -1,0 +1,9 @@
+
+        Function: main
+            Body:
+                If (a+b==0) && (1-1!=0)
+                Then
+                    c = 1;
+                EndIf.
+            EndBody.
+        

@@ -1,0 +1,4 @@
+
+        bar : function void() {}
+        bar : function auto ( b : integer , c : integer ) inherit baz {}
+        main: function void() {}

@@ -1,0 +1,9 @@
+
+        bar: function void (b : auto) {}
+        main: function void () {
+            bar(2018);
+            baz();
+        }
+        baz: function void (){                    
+            bar(3);
+        } 

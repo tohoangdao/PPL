@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("flag"),[VarDecl(Id("x"),[],IntLiteral(10))],([],[])),FuncDecl(Id("main"),[],([VarDecl(Id("x"),[], None),VarDecl(Id("y"),[], None)],[CallStmt(Id("flag"),[Id("y")]),Assign(Id("x"),BinaryOp("*.",Id("x"),UnaryOp("-",Id("y"))))]))])

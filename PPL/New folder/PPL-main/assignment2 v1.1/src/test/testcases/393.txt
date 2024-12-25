@@ -1,0 +1,10 @@
+Var: a[6][5][4];
+        Function: main 
+        Parameter: a,b[2][2] 
+            Body: Var: arr[3] = {1,2,3};   
+                If g != null 
+                Then print(g);  
+                    Return;
+                EndIf.  
+                print("So much"); 
+            EndBody.

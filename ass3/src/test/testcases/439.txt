@@ -1,0 +1,4 @@
+
+        y: auto = bar(1, 2);
+        bar: function auto() { }
+        main: function void() {}

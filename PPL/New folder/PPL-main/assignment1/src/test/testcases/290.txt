@@ -1,0 +1,4 @@
+ Function: main
+            Body: 
+                a[5] = {1;2;3};
+            EndBody. 

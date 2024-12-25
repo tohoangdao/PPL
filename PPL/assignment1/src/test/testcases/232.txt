@@ -1,0 +1,21 @@
+
+        class Test {
+    
+}
+
+class Test <-Test1{
+    
+}
+
+class Test <-Test2{
+    
+}
+
+class Test1 <-Test3{
+    
+}
+
+class Test2 <-Test4{
+    
+}
+        

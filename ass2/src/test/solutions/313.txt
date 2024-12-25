@@ -1,0 +1,3 @@
+Program([
+	VarDecl(x, IntegerType, ArrayCell(a, [BinExpr(+, IntegerLit(1), IntegerLit(2)), BinExpr(==, Id(a), Id(b)), StringLit(hello), UnExpr(!, Id(a_SADsd)), BinExpr(*, IntegerLit(3), FloatLit(3.0))]))
+])

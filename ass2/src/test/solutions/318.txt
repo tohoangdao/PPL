@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([IfStmt(BinExpr(&&, BinExpr(==, Id(DSAD), Id(b)), BinExpr(::, Id(a), Id(b))), BlockStmt([ReturnStmt(FuncCall(asdasdads, []))]), BlockStmt([IfStmt(BinExpr(==, BinExpr(+, Id(a), IntegerLit(1)), IntegerLit(2)), BreakStmt())]))]))
+])

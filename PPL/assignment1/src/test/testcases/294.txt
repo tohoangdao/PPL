@@ -1,0 +1,8 @@
+
+        class Returnn {
+    func @main():bool {
+        a:=b+1;
+        return a <= b;
+    }
+}  
+        

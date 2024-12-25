@@ -1,0 +1,8 @@
+
+            Function: main
+                Body:
+                    While i < 5
+                    Do i = i + 1;
+                    EndWhile.
+                EndBody.
+            

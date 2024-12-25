@@ -1,0 +1,9 @@
+
+        bar: function auto (m: auto, n: integer)
+        {
+            m = m + n;
+            return m;
+        }
+        main: function void() {
+            x: integer = bar(1, 2);
+        }

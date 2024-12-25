@@ -1,0 +1,1 @@
+Type mismatch in Variable Declaration: VarDecl(delta_value, IntegerType, FuncCall(bar, []))

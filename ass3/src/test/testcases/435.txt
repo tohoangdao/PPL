@@ -1,0 +1,19 @@
+
+        bar: function integer(b: auto) inherit bar1
+        {
+            preventDefault();
+            y: integer = 20;
+            if (b < 20)
+            {
+                y: integer = 5;
+                return y;
+            }
+            return y;
+        }
+        bar1: function integer(inherit y: integer)
+        {
+            
+        }
+        main: function void () {
+            
+        }

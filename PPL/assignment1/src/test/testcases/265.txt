@@ -1,0 +1,9 @@
+
+        class Test {
+    func @main():string {
+        return "abc" ^ "def";
+    }
+}   
+
+       
+        

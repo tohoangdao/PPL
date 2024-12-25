@@ -1,0 +1,6 @@
+
+        bar: function void() inherit bar1{
+            super("University", true);
+        }
+        bar1: function void (inherit y: string, inherit y: boolean) {}
+        main: function void() {}

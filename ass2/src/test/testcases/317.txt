@@ -1,0 +1,8 @@
+main: function void(){
+                    if ((x > 1) && (x <= 10)) 
+                        {
+                            y = 2;
+                            continue;
+                        }
+                    }
+                

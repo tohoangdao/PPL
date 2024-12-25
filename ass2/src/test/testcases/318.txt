@@ -1,0 +1,8 @@
+main: function void () {
+           if ((DSAD == b) && (a :: b))  {
+                return asdasdads();
+           }
+           else {
+                if (a + 1 == 2) break;
+           }
+        }

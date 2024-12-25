@@ -1,0 +1,10 @@
+
+            "Backspace  "
+            "Formfeed   "
+            "Return     "
+            "Newline    
+"
+            "Tab        	"
+            "Double quote       ""
+            "Backslash  \ "
+            

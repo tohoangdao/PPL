@@ -1,0 +1,9 @@
+
+         class Test {
+        func abc():void {}
+        func xyz():int {}
+        func asf():string {}
+        func aasdsf():bool {}
+}
+        
+        

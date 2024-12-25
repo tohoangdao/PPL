@@ -1,0 +1,12 @@
+ Function: main 
+            Body:
+                While i<10
+                Do 
+                    If i == 4
+                    Then 
+                        i=i+1;
+                    Continue;
+                    EndIf.
+                    print(i);
+                EndWhile. 
+            EndBody. 

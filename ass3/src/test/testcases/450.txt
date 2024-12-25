@@ -1,0 +1,9 @@
+y, z: string = "Baba", "Mama";
+        main: function void()
+        {
+            x = z :: y;
+            r = (x :: z) :: y;
+            w = x :: (z :: y);
+            printString(r);
+            printString(w);
+        }

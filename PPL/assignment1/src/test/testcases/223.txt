@@ -1,0 +1,10 @@
+
+         class Test {
+    func compare(x:int, y:int):int {
+        var com:int;
+        if x>y{com:=1;}
+        if x<y{com:=2;} else{com:=3;}
+        return com;
+    }
+}
+        

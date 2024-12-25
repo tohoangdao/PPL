@@ -1,0 +1,6 @@
+
+        main: function void() {
+            n: integer = readInteger();
+            printBoolean(bar(n));
+        }
+        bar: function void(n: integer) {}

@@ -1,0 +1,5 @@
+ 
+            Var **this is vardecl**: x=2;
+            Function: main
+                Body:
+                EndBody. 

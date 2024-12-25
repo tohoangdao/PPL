@@ -1,0 +1,10 @@
+
+        num:auto = 10;
+        
+        main:function void() {
+            printInteger(FactorialRecursive(num));
+        }
+        FactorialRecursive:function integer(num:integer){
+            if (num == 1) return 1;
+            return FactorialRecursive(num-1)*num;
+        }

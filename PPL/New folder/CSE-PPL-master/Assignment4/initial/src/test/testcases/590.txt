@@ -1,0 +1,14 @@
+class BKoolClass {
+            static final int a=5;
+            static final int b=7;
+            static void main() {
+                io.writeBool(this.a > this.b);
+                io.writeBool(this.a >= this.b);
+                io.writeBool(this.a < this.b);
+                io.writeBool(this.a <= this.b);
+                io.writeBool(this.a == this.b);
+                io.writeBool(this.a != this.b);
+
+            }
+        }
+        

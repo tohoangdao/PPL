@@ -1,0 +1,6 @@
+
+        Function: main
+             Body:
+                fl = !False;
+                flag[3] = {True, False, False};
+             EndBody.

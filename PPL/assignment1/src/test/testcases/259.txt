@@ -1,0 +1,8 @@
+
+        class Test {
+    func @main():float {
+        return 1.;
+    }
+}
+        
+        

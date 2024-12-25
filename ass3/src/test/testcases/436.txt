@@ -1,0 +1,7 @@
+
+        main : function void() inherit bar {
+            super(1.0, 2.0, 3.0);
+        }
+        bar : function auto(inherit y: string, inherit z: auto, x: auto){
+            return y + x + z;
+        }

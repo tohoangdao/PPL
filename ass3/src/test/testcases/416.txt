@@ -1,0 +1,6 @@
+
+        bar: function void (b: integer) inherit c {
+            preventDefault();
+        }
+        c: function string (inherit d: string) {}
+        main: function void() {}

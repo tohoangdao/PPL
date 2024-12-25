@@ -1,0 +1,13 @@
+
+        class Test {
+    func @main():void {
+        var r, s: int;
+        r := 20;
+        var a, b: [5]int;
+        s := r * self.space;
+        a[0] := s;
+        b[4] :=r;
+        var str : string = "agaf";
+    }
+}
+        

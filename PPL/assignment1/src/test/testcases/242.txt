@@ -1,0 +1,7 @@
+
+        class Test {
+    func @abc():bool {
+        if  a==b {return true;} else {return false;}
+    } 
+}
+        

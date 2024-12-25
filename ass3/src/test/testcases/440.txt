@@ -1,0 +1,4 @@
+
+        z: auto = {4,5,6};
+        y: auto = z[1,2];
+        main: function void() {}

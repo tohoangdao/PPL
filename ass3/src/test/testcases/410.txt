@@ -1,0 +1,6 @@
+
+        bar: function void (inherit m: integer) inherit baz {}
+        main: function void()
+        {
+        
+        }

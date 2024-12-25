@@ -1,0 +1,17 @@
+
+//danum2s: integer = readInteger();
+danum2s:integer = 10;
+Danum2OfWeek: function string(danum2:integer) {
+if (danum2 == 0) return "Sundanum2";
+else if (danum2 == 1) return "Mondanum2";
+else if (danum2 == 2) return "Tuesdanum2";
+else if (danum2 == 3) return "Wednesdanum2";
+else if (danum2 == 4) return "Thursdanum2";
+else if (danum2 == 5) return "Fridanum2";
+else if (danum2 == 6) return "Saturdanum2";
+return "Wrong danum2 range";
+}
+main:function void() {
+printString(Danum2OfWeek(danum2s));
+}         
+        

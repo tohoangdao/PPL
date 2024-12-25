@@ -1,0 +1,6 @@
+
+        x: integer = bar(1, 2) + 1;
+        bar: function auto (m: auto, n: auto)
+        {
+            return m + n;
+        }

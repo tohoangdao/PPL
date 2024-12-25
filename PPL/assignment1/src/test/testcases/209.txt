@@ -1,0 +1,13 @@
+
+        class Example2 {
+    var a, b, c: float;
+    const x, y, z: bool;
+    var g, h, y: int;
+    const a: string;
+        /*
+            =======================================
+            Comment here
+            =======================================
+        */
+}
+        

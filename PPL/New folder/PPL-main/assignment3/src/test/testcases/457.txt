@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("alo"),[],([],[Return(IntLiteral(2))])),FuncDecl(Id("foo"),[],([],[Return(CallExpr(Id("alo"),[]))])),FuncDecl(Id("main"),[],([VarDecl(Id("x"),[],BooleanLiteral(True))],[Assign(Id("x"),CallExpr(Id("alo"),[]))]))])

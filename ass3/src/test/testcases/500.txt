@@ -1,0 +1,8 @@
+
+      square: function auto (a: integer) {
+        return a*a;
+      }
+      main: function void(){
+        a: auto = readInteger();
+        printInteger(square(a));
+      }

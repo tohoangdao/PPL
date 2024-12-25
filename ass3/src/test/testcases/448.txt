@@ -1,0 +1,6 @@
+y, z, x: integer = 20, 30, 40;
+        main: function void()
+        {
+            y = z + x;
+            printInteger(y);
+        }

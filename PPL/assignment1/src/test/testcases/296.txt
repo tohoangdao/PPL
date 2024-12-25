@@ -1,0 +1,11 @@
+
+        class Test {
+    func swap():void {
+        c:=a;
+        a:=b;
+        b:=c;
+        return;
+    }
+}  
+        
+        

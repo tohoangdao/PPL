@@ -1,0 +1,4 @@
+ Function: main
+            Body: 
+                x[a[3+foo(2)]][(2>1) && False] = y[1+1==2][True||False||1.2>.3.2][0];
+            EndBody. 

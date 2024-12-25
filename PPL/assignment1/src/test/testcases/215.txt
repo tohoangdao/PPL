@@ -1,0 +1,11 @@
+
+        
+ class Person {
+        var age: [6]int;
+        const name: [3]string;
+
+        func getName():void {}
+}
+        
+        
+        

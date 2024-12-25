@@ -1,0 +1,6 @@
+
+        Function: main
+            Body:
+                x = 2 + y;
+            EndBody.
+        

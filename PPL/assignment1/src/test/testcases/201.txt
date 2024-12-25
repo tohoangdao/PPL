@@ -1,0 +1,6 @@
+
+        class A{
+            func x() :void{}
+        }
+        class B <- A{func x() :void{/*cmt*/}}
+        

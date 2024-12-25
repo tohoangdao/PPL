@@ -1,0 +1,8 @@
+
+        class Test <-Test1{
+    func @abc():void {
+        return self.asa;
+  }
+}
+
+        

@@ -1,0 +1,5 @@
+main: function void () {
+            a = b;
+            as = c + 2.0e-3;
+            ass = ("Hello" + "asdas") :: 10_20.1e2;
+        }

@@ -1,0 +1,9 @@
+
+        class Test {
+    func getb(b:int):int {
+        return b%10;
+    }
+}
+
+        
+        

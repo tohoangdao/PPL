@@ -1,0 +1,1 @@
+Type Mismatch In Statement: While(StringLiteral("alo"),([VarDecl(Id("i"),[], None)],[Assign(Id("i"),IntLiteral(2))]))

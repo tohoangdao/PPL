@@ -1,0 +1,11 @@
+
+        num:arranum2[2,2] of integer;
+        main:function void() {
+            i,j:integer;
+            for (i = 0, i < 2, 1) {
+                for (j = 0, j < 2, 1) {
+                    num[i,j] = 4;
+                }
+            }
+            printInteger(num[1,1]);
+        }

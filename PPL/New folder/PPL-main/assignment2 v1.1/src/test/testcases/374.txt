@@ -1,0 +1,10 @@
+Var: age;
+        Function: main
+             Body:
+                 print("Enter your age:");
+                 read(age);
+                 If age<18
+                 Then deniedaccess(False);
+                 Else access(True);
+                 EndIf.
+             EndBody.

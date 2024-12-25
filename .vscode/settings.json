@@ -1,0 +1,11 @@
+{
+  "python.analysis.extraPaths": [
+    "./ass2/src/main/mt22/utils",
+    "./ass2/target",
+    "./ass3/target/MT22",
+    "./ass3/src/main/mt22/utils",
+    "./ass4/target/MT22",
+    "./ass4/src/main/mt22/utils",
+    "./ass4/src/main/mt22/checker"
+  ]
+}

@@ -1,0 +1,6 @@
+ Function: main
+            Body:
+                For (i[0] = 0, i < 5, i=i+1) 
+                    Do a[i] = a[i] + 1; 
+                EndFor.
+            EndBody. 

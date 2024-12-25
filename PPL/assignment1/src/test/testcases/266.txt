@@ -1,0 +1,7 @@
+
+        class Student {
+    var age: int = 10;
+    const name: string = "Harry";
+    var height: int;
+ }
+        

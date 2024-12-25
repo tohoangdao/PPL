@@ -1,0 +1,11 @@
+
+        main: function void(){
+            b: integer = func2() + 3;
+        }
+        func2: function auto() inherit bar {
+            return 1;
+        }
+        bar: function integer(){
+            return 2;
+        }
+        

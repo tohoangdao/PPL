@@ -1,0 +1,9 @@
+
+        class Test {
+    func mul(x:int, y:int, z:int):int {
+        var multi:int;
+        multi:= x*y*z;
+        return multi;
+    }
+}
+        

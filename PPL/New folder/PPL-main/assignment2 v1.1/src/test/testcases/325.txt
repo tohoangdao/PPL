@@ -1,0 +1,9 @@
+
+            Function: main
+                Body:
+                    If a > 0
+                    Then b = 0;
+                    Else c = 0;
+                    EndIf.
+                EndBody.
+            

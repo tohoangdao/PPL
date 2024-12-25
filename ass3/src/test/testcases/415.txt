@@ -1,0 +1,6 @@
+
+        bar: function void(b: integer) {}
+        baa: integer = 3;
+        main: function void() {
+        
+        }

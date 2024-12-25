@@ -1,0 +1,8 @@
+
+        class Example2 {
+    func @abcd() : void {
+        bed[3] := [2.3, 4.2, 102e3];
+        afa[3+x.foo(2)] := afa[bed[2]] +3;
+    }
+}
+        

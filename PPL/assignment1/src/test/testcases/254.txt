@@ -1,0 +1,8 @@
+
+        class @Shape <- Retangle {
+    var length, width : float = 3.5,5.3e41;
+    func getArea():float {
+        return self.length * self.width;
+    }
+}
+        

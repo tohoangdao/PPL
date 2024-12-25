@@ -1,0 +1,6 @@
+
+        class Test {
+    var abc:string = "adasv2n1wd212j";
+    const @fasa:string = "dvsdngewik";
+}
+        

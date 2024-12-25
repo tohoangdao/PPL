@@ -1,0 +1,9 @@
+
+        class Test {
+    func @abcd():int {
+        x.b[2] := x.m()[3];
+        var r, s: int;
+    }
+}
+
+        

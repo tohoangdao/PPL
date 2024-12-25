@@ -1,0 +1,11 @@
+
+        class Test {
+  var @abc: int = 0;
+  const vzxf: int = 0;
+  var str: string;
+  func abc(@abc: int):int {
+        return abc;
+    }
+}
+
+        

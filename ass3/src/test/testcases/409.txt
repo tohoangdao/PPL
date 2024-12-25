@@ -1,0 +1,7 @@
+
+        increase : function void (out n : integer, a: float) inherit bar {} 
+        bar : function auto (inherit m: float, n: integer){} 
+        main: function void()
+        {
+        
+        }

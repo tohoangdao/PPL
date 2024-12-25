@@ -1,0 +1,21 @@
+
+        class Test {
+    func @abc():void {
+    } 
+}
+
+class Test <- Test1{
+    func @abcd():float {
+    } 
+}
+
+class Test <- Test2{
+    func @abcd():bool {
+    } 
+}
+
+class Test <- Test3{
+    func @abcd():string {
+    } 
+}
+        

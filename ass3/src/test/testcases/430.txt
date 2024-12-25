@@ -1,0 +1,11 @@
+
+        bar: function void (b: auto) inherit baz {
+            preventDefault();
+        }
+        main: function void () {
+            bar(2018);
+            baz(20);
+        }
+        baz: function void (inherit b: integer){                 
+            bar(3);
+        } 

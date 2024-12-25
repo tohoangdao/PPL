@@ -1,0 +1,11 @@
+
+        Function: main
+            Body:
+                While i < 10
+                Do
+                    If i == 4
+                    Then Return 3 * i;
+                    EndIf.
+                EndWhile.
+            EndBody.
+        

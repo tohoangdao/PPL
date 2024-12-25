@@ -1,0 +1,8 @@
+
+        class Operator
+{
+    func @main():int {
+        return 124124 % 412 ;
+    }
+}
+        

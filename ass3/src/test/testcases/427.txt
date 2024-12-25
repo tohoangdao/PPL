@@ -1,0 +1,13 @@
+
+        z: integer = 3;
+        b: integer = readInteger();
+        factorial: function integer() 
+        {
+            
+        }
+        bar: function auto () {
+            return b;
+        }
+        main: function void() {
+            z = bar();
+        }

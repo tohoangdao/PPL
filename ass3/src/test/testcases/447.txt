@@ -1,0 +1,11 @@
+
+        bar: integer = 2018;
+        bar1: function auto()
+        {
+            return bar;
+        }
+        main: function void()
+        {
+            bar: auto = bar1();
+            printBoolean(bar);
+        }

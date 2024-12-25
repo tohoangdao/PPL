@@ -1,0 +1,14 @@
+
+        class Student {
+    var age: int = 10;
+    const name: string = "Harry";
+    var height,weight: int;
+
+    func getName():string {
+        return name;
+    }
+    func getAge():int {
+        return age;
+    }
+}
+        

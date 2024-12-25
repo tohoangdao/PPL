@@ -1,0 +1,8 @@
+
+        Function: main
+            Body:
+                a = -10;
+                b = -0o567;
+                c = -0xFFE;
+            EndBody.
+        

@@ -1,0 +1,1 @@
+Tui,la,mot,cuc,comment,*,/,<EOF>

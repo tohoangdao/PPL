@@ -1,0 +1,10 @@
+
+        class Test {
+  var a: [5]int;
+  const b:bool;
+  const c:[4]string;
+  func abc(b:[5] string):string {
+    return self.b[3];
+  }
+}
+        

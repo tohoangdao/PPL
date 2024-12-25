@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("alo"),[],([],[Return(BooleanLiteral(True))])),FuncDecl(Id("main"),[],([VarDecl(Id("x"),[], None)],[If([(CallExpr(Id("alo"),[]),[VarDecl(Id("y"),[], None)],[Assign(Id("x"),Id("y"))])],([],[]))]))])

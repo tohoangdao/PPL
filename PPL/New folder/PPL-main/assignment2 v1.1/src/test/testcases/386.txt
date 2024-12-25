@@ -1,0 +1,12 @@
+
+            Function: main
+                Body:
+                    Do 
+                        For(x=0, z == 4, z% 2)
+                        Do
+                            print(a,b,"wat is this", True || !False, 1+1==2, ("another expression"))
+                        EndFor.
+                    While a>3
+                    EndDo.
+                EndBody.      
+            

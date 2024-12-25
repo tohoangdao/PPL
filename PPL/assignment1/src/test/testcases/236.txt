@@ -1,0 +1,20 @@
+
+        class Test {
+    func @abc():void {
+        for i := 2; i < 1000; i := i * i {
+            io.@writeInt(i);
+            i:= i-1;
+        }
+    } 
+}
+
+class Test <- Test1{
+    func @abcde():int {
+        for i := 2; i < 100; i := i * 3 {
+            io.@writeInt(i);
+            i:= i-1;
+        }
+    } 
+}
+        
+        

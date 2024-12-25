@@ -1,0 +1,5 @@
+main: function void () {
+            a[1_0, 2] = b >= a;
+            a[1] = arr[1];
+
+        }

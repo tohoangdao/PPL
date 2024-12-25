@@ -1,0 +1,14 @@
+
+        Function: main
+            Body:
+                If a
+                Then
+                    b = 0;
+                Elseif c
+                Then
+                    d = 0;
+                Else Then
+                    e = 0;
+                EndIf.
+            EndBody.
+        

@@ -1,0 +1,13 @@
+
+        num:arranum2 [4] of integer;
+        main:function void() {
+            num[0] = 10;
+            num[1] = 20;
+            num[2] = 30;
+            num[3] = 40;
+            i: integer = num[0];
+            printInteger(i);
+            for (i = 0, i < 4, 1) {
+                printInteger(num[i]);
+            }
+        }

@@ -1,0 +1,6 @@
+
+        num:integer;
+        main:function void() {
+            num = 123;
+            printInteger(num);
+        }

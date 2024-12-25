@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[],([],[Dowhile(([],[Assign(Id("i"),IntLiteral(2))]),BooleanLiteral(True))]))])

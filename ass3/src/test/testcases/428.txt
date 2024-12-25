@@ -1,0 +1,9 @@
+
+        bar : function void (b : auto){}                  // Line 1
+        main : function void () {
+            bar(true);                                    // Line 3
+            baz();                                        // Line 4
+        }
+        baz : function void (){                           // Line 6                    
+            bar(3);                                       // Line 7
+        } 

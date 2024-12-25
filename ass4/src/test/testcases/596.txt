@@ -1,0 +1,9 @@
+
+        foo: function void(num1: integer, num2: integer, z: float)
+        {
+            a: integer = num1 % num2;
+            printFloat(a + z);
+        }
+        main: function void() {
+            foo(20, 5, 0.99);
+        }

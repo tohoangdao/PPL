@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][Dowhile([],[CallStmt(Id(print),[Id(i)])],BinaryOp(==,Id(a),Id(b)))]))])

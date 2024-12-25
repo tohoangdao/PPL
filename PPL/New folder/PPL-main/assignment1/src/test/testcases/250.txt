@@ -1,0 +1,9 @@
+ Function: main
+        Body:
+            For (i = 0, i < 5, i+1) Do
+                If !a
+                Then Return 0;
+                Else Continue;
+                EndIf. 
+            EndFor.
+        EndBody. 

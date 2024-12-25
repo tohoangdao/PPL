@@ -1,0 +1,6 @@
+
+        num1, num2, z: integer = 65, 97, num1 + num2;
+        main: function void() {
+            a: float = z + 2e3;
+            printFloat(a);
+        }
